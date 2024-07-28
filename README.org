@@ -1,0 +1,9 @@
+* cl-forward-diff
+
+Automatic differentiation for Common Lisp (forward mode)
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/cl-forward-diff.git |
+| commit  | 9ce122a                                                |
+| systems | cl-forward-diff                                        |
+|---------+--------------------------------------------------------|
