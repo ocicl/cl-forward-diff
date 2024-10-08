@@ -4,6 +4,6 @@ Automatic differentiation for Common Lisp (forward mode)
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/cl-forward-diff.git |
-| commit  | 0d6b3fa                                                |
+| commit  | d66ce3f                                                |
 | systems | cl-forward-diff                                        |
 |---------+--------------------------------------------------------|
